@@ -11,9 +11,7 @@ Catch me on
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sm-y/"><img title="Follow SMY on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:smyaseen164@gmail.com"><img title="Email SMY on Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.upwork.com/freelancers/~0120c7b3eef315ce13"><img title="Connect SMY on Upwork" src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"/></a>
-   
+  <a href="mailto:smyaseen164@gmail.com"><img title="Email SMY on Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>   
   
 </p>
 
